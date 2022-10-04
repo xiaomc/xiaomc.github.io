@@ -1,4 +1,18 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
 title = "xmc's blog"
+baseURL = 'https://xiaomc.github.io/'
+languageCode = 'en-us'
 theme = 'ananke'
+
+SectionPagesMenu = "main"
+Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "favicon.ico"
+  recent_posts_number = 5
