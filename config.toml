@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'mannix blog'
+title = "xmc's blog"
 theme = 'ananke'
