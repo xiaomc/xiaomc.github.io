@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "d2d7453b11774a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c0a9ab36a9516c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/posts/2022-07-26-取消长时间运行的正则.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d071ee6d73a938e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75388df617ec2d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf40d1152a6d44bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4ed686291fac08e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3022d52082ca95e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b54ff17e861296b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee0f38dfc0cefc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3b500810beaa80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/2022-07-26-取消长时间运行的正则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b60187376099d0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/2022-07-26-取消长时间运行的正则.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eafe4e73e64b7db2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09eb43c59a693b9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/2022-07-26-取消长时间运行的正则.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "83c0a9ab36a9516c",
+  "lastOpenFiles": [
+    "obs/主面板.md",
+    "content/posts/2022-07-26-取消长时间运行的正则.md",
+    "2022-10-04.md",
+    "主面板.md",
+    "obs_scripts/主面板.md",
+    "content/posts/2022-10-04-今天的测试.md",
+    "content/posts/2022-10-04-tset.md",
+    "content/posts/2022-10-04-GTD笔记.md",
+    "archetypes/default.md",
+    "content/posts/2022-10-04-今天.md"
+  ]
+}

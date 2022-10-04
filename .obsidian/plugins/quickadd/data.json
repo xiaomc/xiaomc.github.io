@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "id": "a8366cbb-d62d-446f-9461-88d1b1848952",
+      "name": "Macro - HugoNew",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e61ec6fa-b6c5-46e5-99c0-6c8c1f9da187"
+    }
+  ],
+  "macros": [
+    {
+      "name": "HugoNew",
+      "id": "e61ec6fa-b6c5-46e5-99c0-6c8c1f9da187",
+      "commands": [
+        {
+          "name": "HugoNewCmd",
+          "type": "UserScript",
+          "id": "5aee69cb-501e-45eb-a0b1-5f15f6a245b8",
+          "path": "obs/HugoNewCmd.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}
