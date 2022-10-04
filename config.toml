@@ -3,6 +3,7 @@ baseURL = 'https://xiaomc.github.io/'
 languageCode = 'en-us'
 theme = 'ananke'
 
+hasCJKLanguage = true
 SectionPagesMenu = "main"
 Paginate = 5
 googleAnalytics = ""
