@@ -1,1 +1,1 @@
-#images of blog
+#resources of blog
